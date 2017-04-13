@@ -8,6 +8,7 @@ namespace ApproximationAlgorithm
 {
     class Node
     {
+        // Комментарий
         public Node(double X, double Y)
         {
             this.x = X;
